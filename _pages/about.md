@@ -8,4 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-Dennis Lee etc.
+I am a health policy researcher interested in ...
+
