@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dennis Lee's Page"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Dennis Lee"
 description              : &description "Health Policy Researcher"
@@ -56,10 +56,6 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter
-facebook:
-  username               :
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
