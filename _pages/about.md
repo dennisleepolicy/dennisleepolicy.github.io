@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dennis Lee's Personal Site"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
