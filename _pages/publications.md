@@ -6,14 +6,14 @@ author_profile: true
 
 <h2>Domestic Health Policy</h2>
 
-<h3>In Rural Areas, Buprenorphine Waiver Adoption Since 2017 Driven By Nurse Practitioners And Physician Assistants</h3>
+- <h3>In Rural Areas, Buprenorphine Waiver Adoption Since 2017 Driven By Nurse Practitioners And Physician Assistants</h3>
 - Authors Barnett, M.L., Lee, D., Frank, R. (2019).
 - Published in *Health Affairs*. 38(12), 2048-2056. 
 - doi:10.1377/hlthaff.2019.00859.
 
 <h2>Domestic Health Policy</h2>
 
-<h3>Survey mode effects and insurance coverage estimates in the redesigned Gallup well-being Index</h3>
+- **Survey mode effects and insurance coverage estimates in the redesigned Gallup well-being Index**
 
 - Sommers, B.D., Goldman, A.L., Lee, D., Epstein, A.M. (2019). Health Services Research, 1-7. doi: 10.1111/1475-6773.13156.
 
