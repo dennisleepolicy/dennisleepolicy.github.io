@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dennis Lee's Personal Github Page"
+title: "Dennis Lee's Personal Site"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
