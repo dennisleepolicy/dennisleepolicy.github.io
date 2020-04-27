@@ -17,4 +17,4 @@ author_profile: true
 **Comparing Medicaid versus Marketplace Enrollment for Low-Income Adults: A Regression Discontinuity Analysis**
  - Aditi Bhanja\*, **Dennis Lee\***, Heidi Allen, Sarah Gordon, Benjamin Sommers  
 
-\*Join Co-authors
+\*Joint Co-authors
