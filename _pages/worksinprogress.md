@@ -5,11 +5,14 @@ author_profile: true
 ---
 
 **Comparing Public & Private Insurance: Implications for Utilization, Costs, and Quality**
-- Allen, H., Gordon, S., Lee, D., Sommers, B. 
+- Heidi L. Allen, Sarah Gordon, **Dennis Lee**, Benjamin Sommers 
 
 **The Impact of Nurse Practitioners and Physicians’ Assistants on Buprenorphine Access in Rural Areas**
-- Lee, D., Barnett, M., Saloner, B. 
+- **Dennis Lee**, Michael Barnett, Brendan Saloner 
 - Abstract Accepted for Presentation at AcademyHealth.
 
 **Robust Machine Learning Variable Importance Analyses of the Geographic Variation in Telemedicine Adoption**
-- Barnett, M., Mehrotra, A., Lee, D., Rose, S.
+- Michael Barnett, Ateev Mehrotra, **Dennis Lee**, Sherri Rose
+
+**Comparing Medicaid versus Marketplace Enrollment for Low-Income Adults: A Regression Discontinuity Analysis**
+ - Aditi Bhanja\*, **Dennis Lee\***, Heidi Allen, Sarah Gordon, Benjamin Sommers  
